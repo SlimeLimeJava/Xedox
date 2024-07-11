@@ -5,7 +5,7 @@ public enum TokenType {
   // KEYWORDS //
   
   NUMBER,
-  STRING
+  STRING,
 	
   // SYMBOLS //
   PLUS,
